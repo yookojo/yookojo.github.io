@@ -1,0 +1,142 @@
+[
+ {
+  "id": "roll-01",
+  "sm": "/media/photos/roll/roll-01-sm.webp",
+  "lg": "/media/photos/roll/roll-01-lg.webp",
+  "w": 2160,
+  "h": 2880
+ },
+ {
+  "id": "roll-02",
+  "sm": "/media/photos/roll/roll-02-sm.webp",
+  "lg": "/media/photos/roll/roll-02-lg.webp",
+  "w": 2880,
+  "h": 2160
+ },
+ {
+  "id": "roll-03",
+  "sm": "/media/photos/roll/roll-03-sm.webp",
+  "lg": "/media/photos/roll/roll-03-lg.webp",
+  "w": 2160,
+  "h": 2880
+ },
+ {
+  "id": "roll-04",
+  "sm": "/media/photos/roll/roll-04-sm.webp",
+  "lg": "/media/photos/roll/roll-04-lg.webp",
+  "w": 2304,
+  "h": 1536
+ },
+ {
+  "id": "roll-05",
+  "sm": "/media/photos/roll/roll-05-sm.webp",
+  "lg": "/media/photos/roll/roll-05-lg.webp",
+  "w": 2157,
+  "h": 3840
+ },
+ {
+  "id": "roll-06",
+  "sm": "/media/photos/roll/roll-06-sm.webp",
+  "lg": "/media/photos/roll/roll-06-lg.webp",
+  "w": 3240,
+  "h": 2160
+ },
+ {
+  "id": "roll-07",
+  "sm": "/media/photos/roll/roll-07-sm.webp",
+  "lg": "/media/photos/roll/roll-07-lg.webp",
+  "w": 1536,
+  "h": 2046
+ },
+ {
+  "id": "roll-08",
+  "sm": "/media/photos/roll/roll-08-sm.webp",
+  "lg": "/media/photos/roll/roll-08-lg.webp",
+  "w": 640,
+  "h": 480
+ },
+ {
+  "id": "roll-09",
+  "sm": "/media/photos/roll/roll-09-sm.webp",
+  "lg": "/media/photos/roll/roll-09-lg.webp",
+  "w": 2048,
+  "h": 1536
+ },
+ {
+  "id": "roll-10",
+  "sm": "/media/photos/roll/roll-10-sm.webp",
+  "lg": "/media/photos/roll/roll-10-lg.webp",
+  "w": 1536,
+  "h": 2048
+ },
+ {
+  "id": "roll-11",
+  "sm": "/media/photos/roll/roll-11-sm.webp",
+  "lg": "/media/photos/roll/roll-11-lg.webp",
+  "w": 1536,
+  "h": 2048
+ },
+ {
+  "id": "roll-12",
+  "sm": "/media/photos/roll/roll-12-sm.webp",
+  "lg": "/media/photos/roll/roll-12-lg.webp",
+  "w": 2160,
+  "h": 2880
+ },
+ {
+  "id": "roll-13",
+  "sm": "/media/photos/roll/roll-13-sm.webp",
+  "lg": "/media/photos/roll/roll-13-lg.webp",
+  "w": 1179,
+  "h": 892
+ },
+ {
+  "id": "roll-14",
+  "sm": "/media/photos/roll/roll-14-sm.webp",
+  "lg": "/media/photos/roll/roll-14-lg.webp",
+  "w": 2160,
+  "h": 2880
+ },
+ {
+  "id": "roll-15",
+  "sm": "/media/photos/roll/roll-15-sm.webp",
+  "lg": "/media/photos/roll/roll-15-lg.webp",
+  "w": 1440,
+  "h": 1786
+ },
+ {
+  "id": "roll-16",
+  "sm": "/media/photos/roll/roll-16-sm.webp",
+  "lg": "/media/photos/roll/roll-16-lg.webp",
+  "w": 2308,
+  "h": 1535
+ },
+ {
+  "id": "roll-17",
+  "sm": "/media/photos/roll/roll-17-sm.webp",
+  "lg": "/media/photos/roll/roll-17-lg.webp",
+  "w": 2880,
+  "h": 2160
+ },
+ {
+  "id": "roll-18",
+  "sm": "/media/photos/roll/roll-18-sm.webp",
+  "lg": "/media/photos/roll/roll-18-lg.webp",
+  "w": 2880,
+  "h": 2160
+ },
+ {
+  "id": "roll-19",
+  "sm": "/media/photos/roll/roll-19-sm.webp",
+  "lg": "/media/photos/roll/roll-19-lg.webp",
+  "w": 2304,
+  "h": 1536
+ },
+ {
+  "id": "roll-20",
+  "sm": "/media/photos/roll/roll-20-sm.webp",
+  "lg": "/media/photos/roll/roll-20-lg.webp",
+  "w": 2160,
+  "h": 2880
+ }
+]
