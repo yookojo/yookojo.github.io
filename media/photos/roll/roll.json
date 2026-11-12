@@ -1,10 +1,11 @@
 [
  {
-  "id": "roll-17",
-  "sm": "/media/photos/roll/roll-17-sm.webp",
-  "lg": "/media/photos/roll/roll-17-lg.webp",
-  "w": 2880,
-  "h": 2160,
+  "id": "intro",
+  "type": "video",
+  "sm": "/media/photos/roll/intro-poster.webp",
+  "lg": "/media/photos/roll/intro.mp4",
+  "w": 640,
+  "h": 392,
   "pick": true
  },
  {
@@ -20,6 +21,14 @@
   "lg": "/media/photos/roll/roll-07-lg.webp",
   "w": 1536,
   "h": 2046
+ },
+ {
+  "id": "roll-17",
+  "sm": "/media/photos/roll/roll-17-sm.webp",
+  "lg": "/media/photos/roll/roll-17-lg.webp",
+  "w": 2880,
+  "h": 2160,
+  "pick": true
  },
  {
   "id": "roll-05",

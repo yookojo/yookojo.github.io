@@ -1,4 +1,4 @@
-import{S as j}from"./dot-Dpsgg9OQ.js";import"./index-jF-NdAWo.js";import"./ai-DA4n6Plq.js";import"./clean-BWodZuFZ.js";import"./share-CAmiudsG.js";const y={"/root/test.lua":`print("hello from lua")
+import{S as j}from"./dot-M87qQymI.js";import"./index-DszHCRqr.js";import"./ai-BT9LOcaU.js";import"./clean-BWodZuFZ.js";import"./share-CAmiudsG.js";const y={"/root/test.lua":`print("hello from lua")
 `,"/root/.ash_history":"","/home/guest/notes/todo.txt":`learn rust. call mom. ship it.
 `,"/home/guest/.config/.dot/.flag":`FLAG{dotfiles_hide_in_plain_sight}
 `,"/var/log/agent.log":`[boot] dot-agentd 0.3 starting
